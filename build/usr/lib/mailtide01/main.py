@@ -42,7 +42,7 @@ services = {
 
 # CREDENTIALS
 EMAIL_USER = "NONE"
-EMAIL_PASS = "yoou mlnn ogjr udzu"
+EMAIL_PASS = ""
 CURRENT_FOLDER = "NONE"
 
 

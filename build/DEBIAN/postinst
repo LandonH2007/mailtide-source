@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Downloading dependencies..."
+pip install html2text --break-system-packages
+echo "Mailtide installed successfully!"

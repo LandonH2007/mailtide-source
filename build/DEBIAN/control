@@ -1,0 +1,8 @@
+Package: mailtide
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3
+Maintainer: Landon Haught landonjhaught@gmail.com
+Description: A lightweight Python-based CLI email client. Mailtide allows you to browse and manage IMAP inboxes via terminal aswell as send emails.

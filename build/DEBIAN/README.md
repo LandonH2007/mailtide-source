@@ -19,7 +19,7 @@ A lightweight Python-based CLI email client. Mailtide allows you to browse and m
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/mailtide.git
+git clone https://github.com/LandonH2007/mailtide.git
 cd mailtide
 
 # Install the .deb package
